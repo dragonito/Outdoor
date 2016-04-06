@@ -1,4 +1,4 @@
-# Packliste
+# Packliste für 2-3 Tage
 
 ## Schlafen
 
