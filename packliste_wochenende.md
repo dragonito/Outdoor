@@ -21,8 +21,8 @@
 
 ## Essen
 
-* Notfallriegel
 * Tee
+* Ingwer
 * Zucker
 * Salz
 * Öl
@@ -33,7 +33,8 @@
 * Tatonka Becher
 * Ingwer
 * Zwei Tage Hauptverpflegung
-* Snacks
+* Snacks (Nrg-Riegel, Schoki)
+* Traubenzucker
 
 ## Feuer
 
@@ -41,6 +42,7 @@
 * Steckhobo
 * Watte & Vasiline (optional)
 * Firesteel
+* Zippo (NEEEIN!)
 
 ## Körperflege
 
@@ -52,12 +54,15 @@
 ## Medizin
 
 * Pflaster
-* Kortisoncreme
 * Pinzette
 * Alkohol
 * Dezinfektionstücher
-* Antiallergikum (Tabletten + Augentropfen)
 * Ibus
+
+### Neurodermitszeugs
+
+* Kortisoncreme
+* Antiallergikum (Tabletten + Augentropfen)
 
 ## Spaßzeugs
 
@@ -67,3 +72,6 @@
 * Schärfzeugs (optional)
 * Axt
 * Taschenlampe + Akkus
+* Handy (optional)
+* Handyakku (optional)
+* Kindl (optional)
