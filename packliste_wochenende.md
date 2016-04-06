@@ -35,6 +35,7 @@
 * Zwei Tage Hauptverpflegung
 * Snacks (Nrg-Riegel, Schoki)
 * Traubenzucker
+* Kleines Spüli (optional)
 
 ## Feuer
 
@@ -48,8 +49,10 @@
 
 * Duschgel (klein)
 * Shampoo (klein)
+* Seife (optional)
 * Creme
 * Deo
+* Handtuch
 
 ## Medizin
 
