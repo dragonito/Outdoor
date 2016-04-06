@@ -38,7 +38,7 @@
 ## Feuer
 
 * Trangia & Spiritus (optional)
-* Bushbox
+* Steckhobo
 * Watte & Vasiline (optional)
 * Firesteel
 
