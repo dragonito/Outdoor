@@ -16,6 +16,8 @@
 * Poncho
 * kurze Jogginhose oder lange Unterhose
 * Schlaf-tshirt
+* Mütze auch für die Taschenlampe
+* Buff
 
 ## Essen
 
@@ -60,8 +62,8 @@
 ## Spaßzeugs
 
 * Bushlore
-* Mora Classic von Nicolas
-* Ganzo
-* Opinel
+* Mora Classic von Nicolas als Backup
+* Ganzo oder Opinel
 * Schärfzeugs (optional)
 * Axt
+* Taschenlampe + Akkus
