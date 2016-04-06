@@ -31,6 +31,7 @@
 * Tatonka Becher
 * Ingwer
 * Zwei Tage Hauptverpflegung
+* Snacks
 
 ## Feuer
 
