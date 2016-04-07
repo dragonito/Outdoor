@@ -17,10 +17,11 @@
 * Poncho
 * kurze Jogginhose oder lange Unterhose
 * Schlaf-tshirt
-* Mütze auch für die Taschenlampe
+* Mütze mit Minitaschenlampe als Stirnlampe
 * Buff
 
 ### Am Mann
+
 * Nerdhoodie
 * Hose
 * Strümpfe
@@ -85,12 +86,15 @@
 * Axt
 
 ## Diverses
+
 * Minitaschenlampe
 * Akkus
-
+* Geldbörse
+* Schlüssel
 
 ## Spaßzeugs (optional)
 
+* Mundharmonika
 * Größere Taschenlampe
 * Ganzo
 * Schärfzeugs
