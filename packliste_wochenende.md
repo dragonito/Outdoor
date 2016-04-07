@@ -9,7 +9,6 @@
 
 ## Klamotten
 
-* Nerdhoodie
 * Fleecejacke
 * zwei paar Strümpfe
 * zwei Unterhosen
@@ -18,6 +17,14 @@
 * Schlaf-tshirt
 * Mütze auch für die Taschenlampe
 * Buff
+
+### Am Mann
+* Nerdhoodie
+* Hose
+* Strümpfe
+* Unterhose
+* T-Shirt
+* Schuhe
 
 ## Essen
 
