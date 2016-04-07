@@ -78,14 +78,22 @@
 * Kortisoncreme
 * Antiallergikum (Tabletten + Augentropfen)
 
-## Spaßzeugs
-
+## Messer & Co
 * Bushlore
 * Mora Classic von Nicolas als Backup
-* Ganzo oder Opinel
-* Schärfzeugs (optional)
+* Opinel
 * Axt
-* Taschenlampe + Akkus
-* Handy (optional)
-* Handyakku (optional)
-* Kindl (optional)
+
+## Diverses
+* Minitaschenlampe
+* Akkus
+
+
+## Spaßzeugs (optional)
+
+* Größere Taschenlampe
+* Ganzo
+* Schärfzeugs
+* Handy
+* Handyakku
+* Kindl
