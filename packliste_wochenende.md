@@ -19,6 +19,7 @@
 * Schlaf-tshirt
 * Mütze mit Minitaschenlampe als Stirnlampe
 * Buff
+* Handschuhe
 
 ### Am Mann
 
@@ -37,22 +38,25 @@
 * Salz
 * Öl
 * Pfeffer
-* Besteck
-* Nalgene Flasche groß
-* Kleen Kanteen Flasche für Feuer
-* Tatonka Becher
 * Ingwer
 * Zwei Tage Hauptverpflegung
 * Snacks (Nrg-Riegel, Schoki)
 * Traubenzucker
 * Kleines Spüli (optional)
 
-## Feuer
+### Geschirr
 
-* Trangia & Spiritus (optional)
-* Steckhobo
-* Watte & Vasiline (optional)
+* Besteck
+* Tatonka Becher
+* Kleen Kanteen Flasche für Feuer
+* Nalgene Flasche groß
+
+## Feuer
 * Firesteel
+* Steckhobo
+* Charcloth (optional)
+* Trangia & Spiritus (optional)
+* Watte & Vasiline (optional)
 * Zippo (NEEEIN!)
 
 ## Körperflege
