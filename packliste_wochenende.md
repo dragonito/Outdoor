@@ -8,6 +8,7 @@
 * Campingdecke
 * Tarp
 * Paracord
+* Heringe
 
 ## Klamotten
 
@@ -48,7 +49,8 @@
 
 * Besteck
 * Tatonka Becher
-* Kleen Kanteen Flasche für Feuer
+* Topf 1l
+* Kleen Kanten 1l
 * Nalgene Flasche groß
 
 ## Feuer
@@ -84,10 +86,11 @@
 * Antiallergikum (Tabletten + Augentropfen)
 
 ## Messer & Co
-* Bushlore
-* Mora Classic von Nicolas als Backup
-* Opinel
-* Axt
+
+* Condor Bushlore (Vogel)
+* Mora Classic
+* Opinel (Opi)
+* kleines Beil
 
 ## Diverses
 
@@ -100,7 +103,7 @@
 
 * Mundharmonika
 * Größere Taschenlampe
-* Ganzo
+* Ganzo (Stich)
 * Schärfzeugs
 * Handy
 * Handyakku
