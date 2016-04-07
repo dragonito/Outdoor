@@ -39,7 +39,6 @@
 * Salz
 * Öl
 * Pfeffer
-* Ingwer
 * Zwei Tage Hauptverpflegung
 * Snacks (Nrg-Riegel, Schoki)
 * Traubenzucker
