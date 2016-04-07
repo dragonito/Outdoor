@@ -53,6 +53,8 @@
 * Creme
 * Deo
 * Handtuch
+* Zahnbürste
+* Zahnpasta (klein)
 
 ## Medizin
 
