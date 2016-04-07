@@ -7,6 +7,7 @@
 * Fleecedecke
 * Campingdecke
 * Tarp
+* Paracord
 
 ## Klamotten
 
