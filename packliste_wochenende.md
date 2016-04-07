@@ -6,6 +6,7 @@
 * Isomatte
 * Fleecedecke
 * Campingdecke
+* Tarp
 
 ## Klamotten
 
